@@ -18,8 +18,10 @@ I love connecting with different people so if you want to say hi, I'll be happy 
   <a href="https://github.com/qiaoyukeji?tab=repositories">
     <img src="https://badges.pufler.dev/repos/qiaoyukeji?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/qiaoyukeji">
+ <!--
+ <a href="https://github.com/qiaoyukeji">
     <img src="https://badges.pufler.dev/commits/monthly/qiaoyukeji?style=flat-square&color=black&logo=github">
   </a>
+-->
  <p>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

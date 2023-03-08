@@ -72,21 +72,21 @@
         {
             "company_name": "蚌埠壹双文化传媒有限公司",
             "department_name": "新媒体部",
-            "work_time": "2017.06,2018.06",
+            "work_time": ["2017.06","2018.06"],
             "work_desc": "1. 管理和维护部门办公区域内的网络基础设施\n2. 负责将公司项目从测试环境部署到云端服务器\n3. 负责内部信息化系统的维护，负责部门二级域名解析与部门企业邮箱账号等分配",
             "dataIndex": 0
         },
         {
             "company_name": "合肥出发教育科技有限公司",
             "department_name": "技术部",
-            "work_time": "2020.06.06,2020.12",
+            "work_time": ["2020.06","2020.12"],
             "work_desc": "运维工程师",
             "dataIndex": 1
         },
         {
             "company_name": "用友汽车信息科技(上海)股份有限公司",
             "department_name": "运营服务二部",
-            "work_time": "2021.03,2021.09",
+            "work_time": ["2021.03","2021.09"],
             "work_desc": "数据库运维工程师",
             "dataIndex": 2
         }

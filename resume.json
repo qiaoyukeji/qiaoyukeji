@@ -1,0 +1,176 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": false,
+        "shape": "square"
+    },
+    "profile": {
+        "name": "查文文",
+        "email": "zhawenwen@aliyun.com",
+        "mobile": "17730075965",
+        "github": "https://github.com/qiaoyukeji",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "上海",
+        "positionTitle": "前端工程师"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2016.09",
+                "2020.06"
+            ],
+            "school": "蚌埠学院",
+            "major": "物联网工程",
+            "dataIndex": 0
+        },
+        {
+            "edu_time": [
+                "2021.09",
+                "2024.06"
+            ],
+            "school": "安徽农业大学",
+            "major": "计算机科学与技术",
+            "dataIndex": 1
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "英语 CET4",
+            "award_time": "2019",
+            "dataIndex": 0
+        },
+        {
+            "award_info": "软考 中级网络工程师",
+            "award_time": "2019.05",
+            "dataIndex": 1
+        },
+        {
+            "award_info": "安徽省大学习程序设计大赛二等奖",
+            "award_time": "2019.05",
+            "dataIndex": 2
+        },
+        {
+            "award_info": "阿里云 Clouder 云计算专项认证证书",
+            "award_time": "2020.03",
+            "dataIndex": 3
+        },
+        {
+            "award_time": "2018.03",
+            "award_info": "计算机等级二级C、计算机等级二级Python"
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "蚌埠壹双文化传媒有限公司",
+            "department_name": "新媒体部",
+            "work_time": "2017.06,2018.06",
+            "work_desc": "1. 管理和维护部门办公区域内的网络基础设施\n2. 负责将公司项目从测试环境部署到云端服务器\n3. 负责内部信息化系统的维护，负责部门二级域名解析与部门企业邮箱账号等分配",
+            "dataIndex": 0
+        },
+        {
+            "company_name": "合肥出发教育科技有限公司",
+            "department_name": "技术部",
+            "work_time": "2020.06.06,2020.12",
+            "work_desc": "运维工程师",
+            "dataIndex": 1
+        },
+        {
+            "company_name": "用友汽车信息科技(上海)股份有限公司",
+            "department_name": "运营服务二部",
+            "work_time": "2021.03,2021.09",
+            "work_desc": "数据库运维工程师",
+            "dataIndex": 2
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "HTML 、CSS 和 JavaScript",
+            "skill_desc": "",
+            "skill_level": 85,
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "数据可视化、Vue 和 Nodejs",
+            "skill_desc": "",
+            "skill_level": 85,
+            "dataIndex": 1
+        },
+        {
+            "skill_name": "C/C++",
+            "skill_desc": "",
+            "skill_level": 75,
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "数据库 MySQL",
+            "skill_level": 85,
+            "skill_desc": ""
+        },
+        {
+            "skill_name": "云计算",
+            "skill_level": 90,
+            "skill_desc": ""
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "数据库运维与数据库数据迁移",
+            "project_role": "项目成员",
+            "project_time": "2021.04 - 2021.09",
+            "project_desc": "",
+            "project_content": "",
+            "dataIndex": 0
+        },
+        {
+            "project_name": "大数据环境下的生猪康养与疾病智能预警平台",
+            "project_role": "项目成员",
+            "project_time": "2022.03 - 2023.03 ",
+            "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
+            "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "G2、G2Plot",
+            "project_role": "核心开发者",
+            "project_time": "2019 - 至今",
+            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+            "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+        }
+    ],
+    "workList": [
+        {
+            "work_name": "健康养殖系统-数据可视化平台",
+            "work_desc": "使用 javascript + axios + echart + 腾讯云直播 构建的一套数据可视化平台，并与 MQTT 物联网平台连接，实时获取数据并展示。 ",
+            "visit_link": "https://gitee.com/qiaoyukeji/ahau_big_screen",
+            "dataIndex": 0
+        },
+        {
+            "work_name": "音频在线实时分类检测系统",
+            "work_desc": "猪只音频在线实时分类系统，前端采用 javascript + axios + wavesurfer 实现。后端使用百度EasyDL零门槛AI开发平台进行训练并部署。",
+            "visit_link": "https://gitee.com/qiaoyukeji/pigAuido_reco_show",
+            "dataIndex": 1
+        },
+        {
+            "work_name": "基于yolov5 的 web 图片在线实时识别平台",
+            "work_desc": "基于yolov5 搭建的 online web 在线识别平台，使用 yolov5 + flask + vue + docker 搭建部署，前后端分离，可实现图片实时上传并实时进行识别。",
+            "visit_link": "https://gitee.com/qiaoyukeji/yolov5_reco_online",
+            "dataIndex": 2
+        }
+    ],
+    "aboutme": {
+        "aboutme_desc": ""
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
